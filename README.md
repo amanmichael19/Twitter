@@ -1,6 +1,6 @@
-# Project 3 - *Twitterrr*
+# Project 3 - *Twittary*
 
-**Twitterrr** is a basic twitter app to read your tweets.
+**Twittary** is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
