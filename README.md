@@ -51,7 +51,8 @@ Here's a gif demo:
 
 <img src='http://g.recordit.co/x4S1c3I8iL.gif' title='Demo Gif' width='' alt='Demo GIF' />
 
-Demo 2
+Demo 2:
+
 <img src='http://g.recordit.co/ap3RyECzFi.gif' title='Demo Gif' width='' alt='Demo GIF' />
 
 
